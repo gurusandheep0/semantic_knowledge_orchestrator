@@ -1,0 +1,16 @@
+[project]
+name = "semantic-knowledge-orchestrator"
+version = "1.0.0"
+description = "Grounded document retrieval, citations, and multichannel automation"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.coverage.run]
+source = ["app"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true

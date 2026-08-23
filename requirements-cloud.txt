@@ -1,0 +1,2 @@
+# Optional production vector database integration
+pinecone>=7,<9

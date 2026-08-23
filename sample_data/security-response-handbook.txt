@@ -1,0 +1,13 @@
+ACME CLOUD — SECURITY INCIDENT RESPONSE HANDBOOK
+
+Severity and acknowledgement
+A critical, Severity 1 security incident must be acknowledged by the on-call incident commander within 15 minutes. Severity 2 incidents require acknowledgement within 30 minutes, while Severity 3 incidents require acknowledgement within four business hours. The security operations center opens a dedicated incident channel and records the incident timeline.
+
+Containment and communication
+For Severity 1 incidents, the team begins containment immediately and provides an internal status update every 30 minutes. Customer communications are coordinated by Security, Legal, and Customer Success. Only the designated communications lead may publish external statements. Evidence must be preserved in the approved forensic repository with chain-of-custody metadata.
+
+Recovery and review
+Service restoration requires validation from the incident commander and the affected service owner. A preliminary incident summary is due within 24 hours. A blameless post-incident review must be completed within five business days and must identify contributing conditions, corrective actions, owners, and due dates. Critical corrective actions are tracked weekly until closure.
+
+Escalation
+If regulated personal data may be affected, Privacy and Legal must be engaged immediately. The Chief Information Security Officer is notified for every Severity 1 event. Incidents lasting longer than two hours are escalated to the executive response group.
